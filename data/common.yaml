@@ -1,5 +1,3 @@
 ---
 secure_windows_hiera_test::log::enabled: false
 secure_windows_hiera_test::log::threatlevel: warning
-log::enabled: false
-log::threatlevel: warning
